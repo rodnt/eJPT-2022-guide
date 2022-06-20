@@ -2,7 +2,7 @@
 
 ---
 
-<p> <strong> Author: Rodolfo "0xrod" Tavares </strong>  <p>
+<p> <strong> Author: Rodolfo "m4ll0ck3r" Tavares </strong>  <p>
 
 <h3> To be honest, everything you need to pass the eJPT is in that free course at https://ine.com, but if you want more content and <strong> FREE </strong> enjoy !</h3>
 
